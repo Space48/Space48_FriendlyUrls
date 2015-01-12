@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <menu>
+    	<space48friendlyurls translate="title">
+            <title>SEO Friendly URLs</title>
+            <sort_order>80</sort_order>
+            <children>
+            	<space48friendlyurls translate="title">
+            		<title>Manage Url List</title>
+            		<sort_order>0</sort_order>
+            		<action>space48friendlyurls/adminhtml_index</action>
+            	</space48friendlyurls>
+            </children>
+        </space48friendlyurls>
+    </menu>
+</config>

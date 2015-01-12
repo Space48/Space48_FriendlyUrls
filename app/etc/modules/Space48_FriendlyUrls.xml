@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Space48_FriendlyUrls>
+      <active>true</active>
+      <codePool>community</codePool>
+      <version>0.1.2</version>
+    </Space48_FriendlyUrls>
+  </modules>
+</config>
