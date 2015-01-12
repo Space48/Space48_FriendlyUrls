@@ -1,0 +1,1 @@
+# Space48_FriendlyUrls
